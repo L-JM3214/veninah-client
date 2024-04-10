@@ -15,7 +15,7 @@ const DineIn = () => {
           title="Restaurant Video"
           width="580"
           height="315"
-          src={videoLoaded ? "https://player.vimeo.com/external/173249177.sd.mp4?s=4b45afd27c8a45058186028705247db86c9b381b&profile_id=164&oauth2_token_id=57447761" : ""}
+          src={videoLoaded ? "https://player.vimeo.com/external/173249177.sd.mp4?s=4b45afd27c8a454&oauth2_token_id=57447761" : ""}
           style={{ display: videoLoaded ? "block" : "none" }}
           onLoad={() => setVideoLoaded(true)}
           allowFullScreen

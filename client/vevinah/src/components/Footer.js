@@ -38,17 +38,15 @@ function Footer() {
         </ul>
       </div>
   <div class="content">
-    <div class="middle-text">
-      
-        <li>
+    <div class="middle-text">      
+        <ul>
           <p>
             We're committed to great food, great coffee, great service, an
             experience that will make your time with us fabulous.All visuals are
             serving suggestions only. Prices are quoted in Kenyan Shillings and
             inclusive of VAT.
           </p>
-        </li>
-      
+        </ul>
     </div>
   </div>
   <div class="copyright">&copy; 2024 Chai Vevinah. All Rights Reserved.</div>

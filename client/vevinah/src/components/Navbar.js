@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { ShoppingCart } from "react-feather";
-import logo from "../assets/chai-vevinah-logo.png";
+import logo from "../assets/chai-vevinah-logo-grey.png";
 import { useEffect, useState } from "react";
 
 function Navbar() {
